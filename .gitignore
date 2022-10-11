@@ -1,0 +1,5 @@
+.pytest_cache
+data
+myLabel
+.idea
+__pycache__
